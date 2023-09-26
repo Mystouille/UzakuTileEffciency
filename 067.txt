@@ -1,0 +1,26 @@
+Notez que différentes sortes de kanchans feront varier aussi tes chances d'appeler et d'amélioration de
+main. Le tableau en-dessous compare 244p et 224s.
+
+Main Chances d'appeler Améliorations
+244p 456m244p78sWW RrR OK Bonnes
+224s 456m78p224sWW RrR Bonnes OK
+
+224s est meilleur pour appeler (faire des appels), et 244p est plus facile à améliorer. En piochant 5s tu
+divises la forme 224s en deux blocs, 22s et 45s. Donc, si ta main a déjà assez de blocs, tu pourras
+désormais en jeter un.
+
+Garde ces comparaisons à l'esprit lorsque tu choisis le bloc le plus fort de ta main. Aussi, sois conscient
+que tes chances d'appeler sont directement liées à la faculté de victoire avec cette forme-ci. Les formes
+faciles à appeler rendront plus facile aussi ton agari/fin de main. C'est pourquoi tu préféreras améliorer tes
+chances d'appel plutôt que tes attentes pour tes mains ouvertes.
+
+Note:
+Lorsque tu choisis un bloc complèxe dans tes prochaines parties, tu devras aussi prendre en considération
+ta défense. Lorsqu'un adversaire te force à te coucher, tu voudras défausser des formes les moins risquées
+possibles. Les tuiles les plus proches des terminaux restent les moins dangereuses. Cela implique que tes
+chances d'appeler sont aussi directement liées à ta défense.
+
+Point Méthode
+Les deux facteurs à considérer pour les blocs complèxes sont les chances d'appeler et les améliorations de
+main possibles.
+Préférez le premier au deuxième lorsque vous tentez une main ouverte.

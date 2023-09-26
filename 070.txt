@@ -1,0 +1,19 @@
+Blocs Complèxes (3)
+
+Comment choisir parmi deux blocs complèxes ?
+
+Prob. A
+
+Cette main a deux groupes complets et est I-shanten. Nous devrons défausser une tuile d'un bloc
+complèxe, 133p ou 133s.
+Idéalement, nous voudrons maximiser le tanyao tout en conservant nos deux paires. Pensez à la main avec
+laquelle on va finir si l'on pioche les améliorations 4p ou 4s.
+Défaussez 1s. Si l'on pioche 4p, on peut jeter la paire de 1p et viser le tanpin. Si l'on pioche 4s, on aura un
+I-shanten parfait comme ci-bas.
+
+Prob. B
+
+Cette main est proche de celle du Problème A. Que faudrait-il défausser cette fois ?
+La bonne réponse est, encore une fois, 1s. Si l'on pioche 2p ou 4p, on peut jeter la paire de 1p et viser
+tanyao. Si l'on pioche 3s, on termine avec un groupe furiten, mais nous avons encore un I-shanten parfait
+qui suit.

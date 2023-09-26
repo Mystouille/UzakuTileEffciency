@@ -1,0 +1,14 @@
+Blocs Complèxes (1)
+
+Les blocs complèxes sont des blocs communs avec une tuile reliée à l'une des tuiles du groupe en
+question.
+
+De façon générale, les blocs complèxes respectent la même hiérarchie que les blocs simples: ryanmen >
+kanchan > penchan. Attentes sur les bords>attente centrale>attente unique 3 ou 7. Mais quelquefois, cet
+ordre est inversé lorsqu'un appel rentre dans l'équation.
+Regardons les deux mains qui suivent et comparons-y leurs blocs complèxes: le kanchan 244p et le
+penchan 112s.
+
+Le kanchan 244p est meilleur en termes d'améliorations. Si tu pioches 5p et que tu défausses 2p, tu
+obtiens un ryanmen 445p et ta forme attend quatre fois plus de tuiles. En comparaison, le penchan 112s
+comporte très peu d'améliorations possibles.

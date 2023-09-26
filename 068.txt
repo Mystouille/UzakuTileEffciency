@@ -1,0 +1,19 @@
+Blocs Complèxes (2)
+
+Cette main comporte beaucoup de blocs complèxes et pas de tuile isolée, ce qui est assez commun.
+J'imagine que plusieurs joueurs pourraient regarder ce problème et voir que le bon choix serait de
+défausser 7p, mais aussi qu'ils ne sauraient dire pourquoi.
+
+Nous avons cinq blocs et pas de tuile isolée après avoir décortiqué la main. Malheureusement, le seul bloc
+complet est la suite 234s, nous devrons avoir donc trois groupes de trois tuiles et une paire avec le quatre
+blocs restants.
+
+68s est le bloc faible, mais si on se débarrasse de celui-ci, nous n'aurons plus que quatre blocs.
+
+577m est un kanchan avec une tuile jointe, et 233p et 677p sont deux ryanmens avec une tuile jointe.
+Aucun des trois n'a de tuiles isolées, mais vous devez choisir quoi défausser.
+
+La meilleure démarche à suivre dans ce cas est de garder la tuile jointe des blocs faibles et de défausser la
+tuile jointe des groupes forts. En d'autres mots, "fixer le bloc fort et garder le faible".
+Les deux 223 et 677p sont de ryanmens forts avec une tuile jointe, mais vous devez défausser 7p pour que
+les améliorer les chances de Tanyao.

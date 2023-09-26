@@ -1,0 +1,14 @@
+Soyez attentifs à ne pas rater le détail le plus évident de cette main. Décortiquez en blocs pour
+commencer, et vous verrez qu'il y a un bloc en trop.
+
+Visez le I-Shanten parfait et défaussez 68s.
+Tu devrais fixer le bloc fort et garder la tuile jointe du bloc faible pour les mains à cinq blocs. Tu dois
+considérer les tuiles jointes différemment en fonction du nombre de blocs que tu as en main.
+1. À six blocs (un bloc en trop), gardez les cinq plus forts et défaussez le plus faible.
+2. À cinq blocs, préserve un bon équilibre dans ta main en conservant les tuiles jointes du bloc
+faible.
+
+Point Méthode:
+Fixe le bloc fort et garde la tuile jointe du bloc faible.
+Défausse le bloc le plus faible si tu as un bloc en trop. Préserve l'équilibre de ta main en conservant les
+tuiles jointes du bloc faible seulement à cinq blocs.
